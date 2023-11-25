@@ -1,0 +1,27 @@
+{
+  "helloworld": "Hallo Welt!",
+  "revenues": {
+    "zero": "Einnahmen",
+    "one": "Einnahme",
+    "other": "Einnahmen"
+  },
+  "record": {
+    "zero": "Einträge",
+    "one": "Eintrag",
+    "other": "Einträge"
+  },
+  "openItem": "Offene {item}",
+  "createNew": {
+    "male": "Neuen {item} erstellen",
+    "female": "Neue {item} erstellen",
+    "other": "Neues {item} erstellen"
+  },
+  "openRecordsSublineText": "<bold>{} €</bold> nicht bezahlt",
+  "image": {
+    "zero": "Bilder",
+    "one": "Bild",
+    "other": "Bilder"
+  },
+  "images": "Bilder",
+  "deleteImage": "Bist du sicher, dass du {count} @:images löschen möchtest?"
+}

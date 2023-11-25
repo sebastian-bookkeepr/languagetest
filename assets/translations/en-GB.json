@@ -1,0 +1,27 @@
+{
+  "hellowold": "hello world",
+  "revenues": {
+    "zero": "revenues",
+    "one": "revenue",
+    "other": "revenues"
+  },
+  "record": {
+    "zero": "records",
+    "one": "record",
+    "other": "records"
+  },
+  "openItem": "Open {item}",
+  "createNew": {
+    "male": "Create new {item}",
+    "female": "Create new {item}",
+    "other": "Create new {item}"
+  },
+  "openRecordsSublineText": "<bold>{} €</bold> unpaid",
+  "image": {
+    "zero": "images",
+    "one": "image",
+    "other": "images"
+  },
+  "images": "images",
+  "deleteImage": "Are you sure you want to delete {count} @:images?"
+}
